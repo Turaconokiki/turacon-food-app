@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/turacon-food-app/static/css/main.afaa51ef.css",
+    "main.js": "/turacon-food-app/static/js/main.0b2cdf16.js",
+    "index.html": "/turacon-food-app/index.html",
+    "main.afaa51ef.css.map": "/turacon-food-app/static/css/main.afaa51ef.css.map",
+    "main.0b2cdf16.js.map": "/turacon-food-app/static/js/main.0b2cdf16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afaa51ef.css",
+    "static/js/main.0b2cdf16.js"
+  ]
+}
